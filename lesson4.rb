@@ -1,0 +1,3 @@
+name = "kawano"
+puts name
+
